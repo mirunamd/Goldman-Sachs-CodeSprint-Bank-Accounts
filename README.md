@@ -49,3 +49,5 @@ Print exactly q lines. In the i-th of them, print the answer to the i-th scenari
 > fee
 
 > fee
+
+https://www.hackerrank.com/contests/gs-codesprint/challenges/bank-accounts
